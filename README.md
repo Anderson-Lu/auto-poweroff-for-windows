@@ -11,3 +11,4 @@ Automatically displays the countdown.
 # Development status
 No longer maintained
 # Download
+[v1.0.0.0](https://github.com/Forward2015/AutoPowserOff/blob/master/AutoPowerOff%20Pro.exe?raw=true)
